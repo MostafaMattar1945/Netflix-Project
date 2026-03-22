@@ -24,6 +24,17 @@ The goal of this project is to analyze a Netflix dataset to answer questions suc
 
 The analysis involves data cleaning, handling missing values, converting data types, and creating visualizations to present findings.
 
+<img width="867" height="769" alt="image" src="https://github.com/user-attachments/assets/cb7cab80-89ae-4bd6-8f06-dc200d919a99" />
+<img width="881" height="817" alt="image" src="https://github.com/user-attachments/assets/3594dc78-a60e-4a55-a397-913ac85aecf4" />
+<img width="792" height="718" alt="image" src="https://github.com/user-attachments/assets/491dc341-e320-4e19-8243-a098252e0a2d" />
+<img width="761" height="770" alt="image" src="https://github.com/user-attachments/assets/b045c2e0-6404-45de-9023-7bc1bd6e8cd5" />
+<img width="736" height="761" alt="image" src="https://github.com/user-attachments/assets/f7dcf576-f734-44fd-8948-ff3f0fd356d8" />
+
+
+
+
+
+
 ## Dataset
 
 The dataset used is `8. Netflix Dataset.csv` (source: likely Kaggle). It contains information about movies and TV shows, including:
